@@ -1,0 +1,14 @@
+C:\Users\hshem\source\repos\OOP_Practice_Problem\obj\Debug\net6.0\OOP_Practice_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hshem\source\repos\OOP_Practice_Problem\obj\Debug\net6.0\OOP_Practice_Problem.AssemblyInfoInputs.cache
+C:\Users\hshem\source\repos\OOP_Practice_Problem\obj\Debug\net6.0\OOP_Practice_Problem.AssemblyInfo.cs
+C:\Users\hshem\source\repos\OOP_Practice_Problem\obj\Debug\net6.0\OOP_Practice_Problem.csproj.CoreCompileInputs.cache
+C:\Users\hshem\source\repos\OOP_Practice_Problem\bin\Debug\net6.0\OOP_Practice_Problem.exe
+C:\Users\hshem\source\repos\OOP_Practice_Problem\bin\Debug\net6.0\OOP_Practice_Problem.deps.json
+C:\Users\hshem\source\repos\OOP_Practice_Problem\bin\Debug\net6.0\OOP_Practice_Problem.runtimeconfig.json
+C:\Users\hshem\source\repos\OOP_Practice_Problem\bin\Debug\net6.0\OOP_Practice_Problem.dll
+C:\Users\hshem\source\repos\OOP_Practice_Problem\bin\Debug\net6.0\OOP_Practice_Problem.pdb
+C:\Users\hshem\source\repos\OOP_Practice_Problem\obj\Debug\net6.0\OOP_Practice_Problem.dll
+C:\Users\hshem\source\repos\OOP_Practice_Problem\obj\Debug\net6.0\refint\OOP_Practice_Problem.dll
+C:\Users\hshem\source\repos\OOP_Practice_Problem\obj\Debug\net6.0\OOP_Practice_Problem.pdb
+C:\Users\hshem\source\repos\OOP_Practice_Problem\obj\Debug\net6.0\OOP_Practice_Problem.genruntimeconfig.cache
+C:\Users\hshem\source\repos\OOP_Practice_Problem\obj\Debug\net6.0\ref\OOP_Practice_Problem.dll
