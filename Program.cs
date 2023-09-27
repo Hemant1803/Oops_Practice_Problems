@@ -24,7 +24,7 @@ namespace OOP_Practice_Problem
                         break;
 
                     case 2:
-                        Employees employee = new Employee("Hemant", 50000);
+                        Employee employee = new Employee("Hemant", 50000);
 
                         employee.DisplayInfo();
 
@@ -33,7 +33,15 @@ namespace OOP_Practice_Problem
                         Console.WriteLine($"Employee Salary: {employee.Salary}");
                         break;
                     case 3:
-                        Console.WriteLine("hello");
+                        Employe employee1 = new Employe();
+                        employee1.Name = "Manu"; 
+                        Manager manager = new Manager();
+                        manager.Name = "Prashat";
+                        Console.WriteLine($"Name1 : {manager.Name}");
+                        manager.Promote(); 
+                        
+
+                        Console.WriteLine($"Name2 : {manager.Name}");
                         break;
                     case 4:
                         return;
